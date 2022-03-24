@@ -1,0 +1,1 @@
+"D:\Program Files\微信web开发者工具\cli.bat" cloud functions deploy --e l-may-liuwei --n quickstartFunctions --r --project "D:\Program Files\微信web开发者工具\WeChatProjects\dnegke22.3.8" --report_first --report
